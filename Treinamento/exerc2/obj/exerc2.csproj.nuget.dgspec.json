@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "g:\\Programação\\Olimpiadas\\Treinamento\\exerc2\\exerc2.csproj": {}
+    "G:\\Programação\\Olimpiadas\\Treinamento\\exerc2\\exerc2.csproj": {}
   },
   "projects": {
-    "g:\\Programação\\Olimpiadas\\Treinamento\\exerc2\\exerc2.csproj": {
+    "G:\\Programação\\Olimpiadas\\Treinamento\\exerc2\\exerc2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "g:\\Programação\\Olimpiadas\\Treinamento\\exerc2\\exerc2.csproj",
+        "projectUniqueName": "G:\\Programação\\Olimpiadas\\Treinamento\\exerc2\\exerc2.csproj",
         "projectName": "exerc2",
-        "projectPath": "g:\\Programação\\Olimpiadas\\Treinamento\\exerc2\\exerc2.csproj",
+        "projectPath": "G:\\Programação\\Olimpiadas\\Treinamento\\exerc2\\exerc2.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "g:\\Programação\\Olimpiadas\\Treinamento\\exerc2\\obj\\",
+        "outputPath": "G:\\Programação\\Olimpiadas\\Treinamento\\exerc2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"

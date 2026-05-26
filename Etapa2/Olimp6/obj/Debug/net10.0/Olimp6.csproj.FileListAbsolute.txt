@@ -1,0 +1,15 @@
+G:\Programação\Olimpiadas\Etapa2\Olimp6\bin\Debug\net10.0\Olimp6.exe
+G:\Programação\Olimpiadas\Etapa2\Olimp6\bin\Debug\net10.0\Olimp6.deps.json
+G:\Programação\Olimpiadas\Etapa2\Olimp6\bin\Debug\net10.0\Olimp6.runtimeconfig.json
+G:\Programação\Olimpiadas\Etapa2\Olimp6\bin\Debug\net10.0\Olimp6.dll
+G:\Programação\Olimpiadas\Etapa2\Olimp6\bin\Debug\net10.0\Olimp6.pdb
+G:\Programação\Olimpiadas\Etapa2\Olimp6\obj\Debug\net10.0\Olimp6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programação\Olimpiadas\Etapa2\Olimp6\obj\Debug\net10.0\Olimp6.AssemblyInfoInputs.cache
+G:\Programação\Olimpiadas\Etapa2\Olimp6\obj\Debug\net10.0\Olimp6.AssemblyInfo.cs
+G:\Programação\Olimpiadas\Etapa2\Olimp6\obj\Debug\net10.0\Olimp6.csproj.CoreCompileInputs.cache
+G:\Programação\Olimpiadas\Etapa2\Olimp6\obj\Debug\net10.0\Olimp6.sourcelink.json
+G:\Programação\Olimpiadas\Etapa2\Olimp6\obj\Debug\net10.0\Olimp6.dll
+G:\Programação\Olimpiadas\Etapa2\Olimp6\obj\Debug\net10.0\refint\Olimp6.dll
+G:\Programação\Olimpiadas\Etapa2\Olimp6\obj\Debug\net10.0\Olimp6.pdb
+G:\Programação\Olimpiadas\Etapa2\Olimp6\obj\Debug\net10.0\Olimp6.genruntimeconfig.cache
+G:\Programação\Olimpiadas\Etapa2\Olimp6\obj\Debug\net10.0\ref\Olimp6.dll

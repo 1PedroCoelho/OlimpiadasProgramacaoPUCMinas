@@ -1,0 +1,15 @@
+G:\Programação\Olimpiadas\Treinamento\exerc11\bin\Debug\net10.0\exerc11.exe
+G:\Programação\Olimpiadas\Treinamento\exerc11\bin\Debug\net10.0\exerc11.deps.json
+G:\Programação\Olimpiadas\Treinamento\exerc11\bin\Debug\net10.0\exerc11.runtimeconfig.json
+G:\Programação\Olimpiadas\Treinamento\exerc11\bin\Debug\net10.0\exerc11.dll
+G:\Programação\Olimpiadas\Treinamento\exerc11\bin\Debug\net10.0\exerc11.pdb
+G:\Programação\Olimpiadas\Treinamento\exerc11\obj\Debug\net10.0\exerc11.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programação\Olimpiadas\Treinamento\exerc11\obj\Debug\net10.0\exerc11.AssemblyInfoInputs.cache
+G:\Programação\Olimpiadas\Treinamento\exerc11\obj\Debug\net10.0\exerc11.AssemblyInfo.cs
+G:\Programação\Olimpiadas\Treinamento\exerc11\obj\Debug\net10.0\exerc11.csproj.CoreCompileInputs.cache
+G:\Programação\Olimpiadas\Treinamento\exerc11\obj\Debug\net10.0\exerc11.sourcelink.json
+G:\Programação\Olimpiadas\Treinamento\exerc11\obj\Debug\net10.0\exerc11.dll
+G:\Programação\Olimpiadas\Treinamento\exerc11\obj\Debug\net10.0\refint\exerc11.dll
+G:\Programação\Olimpiadas\Treinamento\exerc11\obj\Debug\net10.0\exerc11.pdb
+G:\Programação\Olimpiadas\Treinamento\exerc11\obj\Debug\net10.0\exerc11.genruntimeconfig.cache
+G:\Programação\Olimpiadas\Treinamento\exerc11\obj\Debug\net10.0\ref\exerc11.dll

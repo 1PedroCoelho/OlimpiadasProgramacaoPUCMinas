@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "g:\\Programação\\Olimpiadas\\Etapa1\\olimp5\\olimp5.csproj": {}
+    "G:\\Programação\\Olimpiadas\\Etapa1\\olimp5\\olimp5.csproj": {}
   },
   "projects": {
-    "g:\\Programação\\Olimpiadas\\Etapa1\\olimp5\\olimp5.csproj": {
+    "G:\\Programação\\Olimpiadas\\Etapa1\\olimp5\\olimp5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "g:\\Programação\\Olimpiadas\\Etapa1\\olimp5\\olimp5.csproj",
+        "projectUniqueName": "G:\\Programação\\Olimpiadas\\Etapa1\\olimp5\\olimp5.csproj",
         "projectName": "olimp5",
-        "projectPath": "g:\\Programação\\Olimpiadas\\Etapa1\\olimp5\\olimp5.csproj",
+        "projectPath": "G:\\Programação\\Olimpiadas\\Etapa1\\olimp5\\olimp5.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "g:\\Programação\\Olimpiadas\\Etapa1\\olimp5\\obj\\",
+        "outputPath": "G:\\Programação\\Olimpiadas\\Etapa1\\olimp5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
